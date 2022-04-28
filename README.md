@@ -178,3 +178,5 @@ ____
 |----:|:----:|:----------|
 | literal | Строка содержит символьный литерал literal | foo |
 | re1&#124;re2 | Строка содержит регулярные выражения `rel` или `re2` | foo&#124;bar |
+------
+[Руководство по синтаксису для базового использования Markdown](https://docs.microsoft.com/ru-ru/azure/devops/project/wiki/markdown-guidance?view=azure-devops)
