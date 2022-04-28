@@ -99,6 +99,7 @@ ______
 `:negative_squared_cross_mark: Я не буду это делать`
 
 `:black_square_button: делать или не делать, вот в чем вопрос?   ` 
+
 Список работающих Эмодзи находится тут -> [emoji-cheat-sheet] (https://www.webfx.com/tools/emoji-cheat-sheet/)
 ______
 # Использование цитирования в тексте
