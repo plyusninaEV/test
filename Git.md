@@ -36,6 +36,7 @@ GitHub ![https://github.com/](https://github.com/)
 `git clone ссылка на репозиторий`
 
 Например, чтобы склонировать себе на компьютер репозиторий с тасками курса ![https://github.com/navferty/dotnet-learning](https://github.com/navferty/dotnet-learnings), необходимо открыть Git Bash и выполнить в нём команду
+
 `git clone https://github.com/rolling-scopes-school/tasks`
 
 Если необходимо склонировать себе на компьютер отдельную ветку репозитория, выполните команду
