@@ -4,7 +4,7 @@
 Ниже приводится перечень действий с Git и GitHub, которые нужно уметь выполнять. Если они не составляют для вас проблемы, можно сразу переходить к выполнению заданий. Если вы только осваиваете эти темы рекомендуется не только прочитать последовательность действий, но и выполнить их самостоятельно.
 
 # Содержание
-1. Регистрация на GitHub
+1. [Регистрация на GitHub](#Регистрация на GitHub)
 2. Создание репозитория
 3. Клонирование репозитория на компьютер
 4. Загрузка файлов в репозиторий
@@ -14,7 +14,7 @@
 8. Деплой на netlify
 9. Приватный репозиторий
 
-# 1. Регистрация на GitHub
+# 1. Регистрация на GitHub <a name="Регистрация на GitHub"></a>
 GitHub ![https://github.com/](https://github.com/)
 
 Видео: ![Регистрация на сервисе GitHub](https://www.youtube.com/watch?v=5DKVktUtH3A)
@@ -81,19 +81,3 @@ GitHub ![https://github.com/](https://github.com/)
 [MicrosoftDocs Git и GitHub в Visual Studio](https://github.com/MicrosoftDocs/visualstudio-docs.ru-ru/blob/live/docs/version-control/git-with-visual-studio.md)
 
 
-
-# Содержание
-1. [Введение](#введение)
-2. [Some paragraph](#paragraph1)
-3. [Another paragraph](#paragraph2)
-
-# Введение <a name="Введение"></a>
-Some introduction text, formatted in heading 2 style
-
-## 1 часть <a name="paragraph1"></a>
-The first paragraph text
-
-
-
-## 2 часть<a name="paragraph2"></a>
-The second paragraph text
