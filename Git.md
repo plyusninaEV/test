@@ -15,3 +15,4 @@
 # 1. Регистрация на GitHub
 GitHub (https://github.com/)
 Видео: [!Регистрация на сервисе GitHub] (https://www.youtube.com/watch?v=5DKVktUtH3A)
+
