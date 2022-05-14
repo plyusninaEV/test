@@ -3,9 +3,9 @@
 На этапе stage#0 необходимо освоить базовые приёмы работы с Git и GitHub.
 Ниже приводится перечень действий с Git и GitHub, которые нужно уметь выполнять. Если они не составляют для вас проблемы, можно сразу переходить к выполнению заданий. Если вы только осваиваете эти темы рекомендуется не только прочитать последовательность действий, но и выполнить их самостоятельно.
 
-# Table of Contents
-1. [Регистрация на GitHub](#регистрация на GitHub)
-2. Создание репозитория
+# Содержание
+1. [Introduction](#introduction)
+2. [Some paragraph](#paragraph1)
 3. Клонирование репозитория на компьютер
 4. Загрузка файлов в репозиторий
 5. Создание веток
@@ -20,8 +20,6 @@
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
 
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
 
 ## Some paragraph <a name="paragraph1"></a>
 The first paragraph text
@@ -35,12 +33,15 @@ The second paragraph text
 
 
 
-
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
 # 1. Регистрация на GitHub
 GitHub ![https://github.com/](https://github.com/)
 
 Видео: ![Регистрация на сервисе GitHub](https://www.youtube.com/watch?v=5DKVktUtH3A)
 
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
 # 2. Создание репозитория
 Для cоздания репозитория кликните на кнопку New repository справа вверху.
 На странице создания репозитория ![https://github.com/new](https://github.com/new) укажите:
