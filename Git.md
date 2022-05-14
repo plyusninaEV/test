@@ -14,12 +14,6 @@
 8. Деплой на netlify
 9. Приватный репозиторий
 
-# Table of contents
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
-
 
 ## Some paragraph <a name="paragraph1"></a>
 The first paragraph text
