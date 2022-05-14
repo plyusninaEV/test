@@ -14,9 +14,9 @@
 8. Деплой на netlify
 9. Приватный репозиторий
 
-## Регистрация на GitHub
 
-
+## This is the Регистрация на GitHub <a name="регистрация на GitHub"></a>
+Some introduction text, formatted in heading 2 style
 # 1. Регистрация на GitHub
 GitHub ![https://github.com/](https://github.com/)
 
