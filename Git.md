@@ -82,12 +82,12 @@ GitHub ![https://github.com/](https://github.com/)
 
 
 
-# Table of contents
+# Содержание
 1. [Введение](#введение)
 2. [Some paragraph](#paragraph1)
 3. [Another paragraph](#paragraph2)
 
-## Введение <a name="Введение"></a>
+# Введение <a name="Введение"></a>
 Some introduction text, formatted in heading 2 style
 
 ## 1 часть <a name="paragraph1"></a>
