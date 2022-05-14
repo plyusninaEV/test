@@ -13,8 +13,8 @@
 8. Деплой на netlify
 9. Приватный репозиторий
 # 1. Регистрация на GitHub
-GitHub(https://github.com/)
+GitHub ![https://github.com/](https://github.com/)
 
-Видео:![Регистрация на сервисе GitHub](https://www.youtube.com/watch?v=5DKVktUtH3A)
+Видео: ![Регистрация на сервисе GitHub](https://www.youtube.com/watch?v=5DKVktUtH3A)
 
 
