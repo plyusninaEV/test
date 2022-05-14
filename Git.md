@@ -4,8 +4,8 @@
 Ниже приводится перечень действий с Git и GitHub, которые нужно уметь выполнять. Если они не составляют для вас проблемы, можно сразу переходить к выполнению заданий. Если вы только осваиваете эти темы рекомендуется не только прочитать последовательность действий, но и выполнить их самостоятельно.
 
 # Содержание
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
+1. Регистрация на GitHub
+2. Создание репозитория
 3. Клонирование репозитория на компьютер
 4. Загрузка файлов в репозиторий
 5. Создание веток
@@ -14,27 +14,11 @@
 8. Деплой на netlify
 9. Приватный репозиторий
 
-
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
-
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
-
-
-
-
-## This is the introduction <a name="introduction"></a>
 # 1. Регистрация на GitHub
 GitHub ![https://github.com/](https://github.com/)
 
 Видео: ![Регистрация на сервисе GitHub](https://www.youtube.com/watch?v=5DKVktUtH3A)
 
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
 # 2. Создание репозитория
 Для cоздания репозитория кликните на кнопку New repository справа вверху.
 На странице создания репозитория ![https://github.com/new](https://github.com/new) укажите:
@@ -95,3 +79,23 @@ The first paragraph text
 - [Открытие существующего репозитория GIT](https://docs.microsoft.com/ru-ru/visualstudio/version-control/git-with-visual-studio?view=vs-2019#open-an-existing-local-repository-in-visual-studio-2019). Если у вас уже есть код на компьютере, его можно открыть с помощью пункта меню **Файл > Открыть > Решение/проект** (или **Папка**). Visual Studio автоматически определяет, имеется ли инициализированный репозиторий GIT.
 
 [MicrosoftDocs Git и GitHub в Visual Studio](https://github.com/MicrosoftDocs/visualstudio-docs.ru-ru/blob/live/docs/version-control/git-with-visual-studio.md)
+
+
+
+# Table of contents
+1. [Introduction](#введение)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
+
+## This is the introduction <a name="Введение"></a>
+Some introduction text, formatted in heading 2 style
+
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
+
+### Sub paragraph <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+## Another paragraph <a name="paragraph2"></a>
+The second paragraph text
