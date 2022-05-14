@@ -28,7 +28,6 @@ The second paragraph text
 
 
 ## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
 # 1. Регистрация на GitHub
 GitHub ![https://github.com/](https://github.com/)
 
