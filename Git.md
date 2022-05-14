@@ -88,7 +88,7 @@ GitHub ![https://github.com/](https://github.com/)
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
 
-## This is the introduction <a name="Введение"></a>
+## Введение <a name="Введение"></a>
 Some introduction text, formatted in heading 2 style
 
 ## Some paragraph <a name="paragraph1"></a>
