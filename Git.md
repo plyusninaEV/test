@@ -67,6 +67,8 @@ GitHub ![https://github.com/](https://github.com/)
   
   `git push origin main `, здесь `main `- название ветки репозитория, в которую пушите
 
+**Загрузка файлов в Git через Visual Studio 2017**
+
 **Загрузка файлов в Git через Visual Studio 2019**
 
 Существует три способа начать использование Git в Visual Studio для повышения производительности:
