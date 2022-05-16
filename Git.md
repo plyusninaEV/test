@@ -15,9 +15,9 @@
 9. [Приватный репозиторий]
 
 # 1. Регистрация на GitHub <a name="регистрациянаGitHub"></a>
-GitHub ![https://github.com/](https://github.com/)
+GitHub [https://github.com/](https://github.com/)
 
-Видео: ![Регистрация на сервисе GitHub](https://www.youtube.com/watch?v=5DKVktUtH3A)
+Видео: [Регистрация на сервисе GitHub](https://www.youtube.com/watch?v=5DKVktUtH3A)
 
 # 2. Создание репозитория <a name="Созданиерепозитория"></a>
 Для cоздания репозитория кликните на кнопку New repository справа вверху.
